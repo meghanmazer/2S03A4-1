@@ -1,4 +1,4 @@
-2S03 Assignment 4
+# 2S03 Assignment 4
 
 This is the code that me and my partner [Meghan](https://github.com/meghanmazer) used for our final project in the McMaster C programming course, 2S03.
 
@@ -28,4 +28,4 @@ I used the included photo of the McMaster engineering fireball for the video.
 
 As noted above, I included the command line arguments I used to generate the final image in the `makefile`. Modifications to the existing code were made to generate the frames. I left this code commented in the file `mutate.c`.
 
-I plan on uploading the video to Youtube. I will put a link to the video here once it is uploaded.
+I have put the video on Youtube. [Here is a link to the video](https://youtu.be/tv-_K_bvpSw)

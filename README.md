@@ -1,4 +1,4 @@
-# 2S03 Assignment 4
+2S03 Assignment 4
 
 This is the code that me and my partner [Meghan](https://github.com/meghanmazer) used for our final project in the McMaster C programming course, 2S03.
 
@@ -18,12 +18,14 @@ I have included all the provided code as well as the PPM images that were given 
 
 In order to run the code, clone or download the source, and in a terminal, `cd` into the folder, then run `make escher` or `make mcmaster`. This will only work if you have `make` and `gcc` installed. The program will take around 15 minutes to run, and will generate the output file at the end.
 
+Please note that you can also run `make fireball`, but please be advised that it will take several hours to complete, because it is a larger image with more pixels to process.
+
 ### VIDEO
 
 As part of an extension for the project, we made a video showing the progress of the algorithm through the generations.
 
-I used a photo of the McMaster engineering fireball for the video. Unfortunately, I was unable to find the image to include in the repository.
+I used the included photo of the McMaster engineering fireball for the video.
 
-I included the command line arguments I used to generate the final image in the `makefile`. I also left the code for generating the frames of the video commented in the file `mutate.c`.
+As noted above, I included the command line arguments I used to generate the final image in the `makefile`. Modifications to the existing code were made to generate the frames. I left this code commented in the file `mutate.c`.
 
 I plan on uploading the video to Youtube. I will put a link to the video here once it is uploaded.

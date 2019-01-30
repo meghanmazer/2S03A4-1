@@ -1,6 +1,6 @@
 # 2S03 Assignment 4
 
-This is the code that me and my partner [Meghan](https://github.com/meghanmazer) used for our final project in the McMaster C programming course, 2S03.
+This is the code that me and my partner ([Meghan](https://github.com/meghanmazer) and [David](https://github.com/datho7561)) used for our final project in the McMaster C programming course, 2S03.
 
 We were provided the files `a4.h`, `main.c`, `crossover.c`, and the makefile, and were tasked with writing the remaining functions listed in `a4.h`.
 

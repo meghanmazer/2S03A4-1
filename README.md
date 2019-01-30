@@ -28,4 +28,4 @@ I used the included photo of the McMaster engineering fireball for the video.
 
 As noted above, I included the command line arguments I used to generate the final image in the `makefile`. Modifications to the existing code were made to generate the frames. I left this code commented in the file `mutate.c`.
 
-I have put the video on Youtube. [Here is a link to the video](https://youtu.be/tv-_K_bvpSw)
+[Here is a link to the program computing an image.](https://youtu.be/tv-_K_bvpSw)
